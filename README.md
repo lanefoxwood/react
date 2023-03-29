@@ -1,4 +1,4 @@
 # react
-some basic react projects
+some basic react projects baked with inspiration from scratch!
 
-check out the src folder...all other dependencies included with each project for convenience, but should always be updated!
+check out each src folder...be sure to update dependencies!
